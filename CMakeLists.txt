@@ -3,7 +3,7 @@ project(raylib_base C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(${PROJECT_NAME} main.c raygui.h)
+add_executable(${PROJECT_NAME} main.c)
 
 
 # Find Raylib
